@@ -12,6 +12,6 @@
 
 ![alt text](./img/screen.png)
 
-### Used Technologies:
+### Technologies Used:
 #### HTML & CSS
 #### Vanilla Javascript
